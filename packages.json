@@ -1,5 +1,9 @@
 [
     {
+        "package": "sfDR",
+        "url": "https://github.com/adatar-do/sfDR"
+    },
+    {
         "package": "Dmisc",
         "url": "https://github.com/dnldelarosa/Dmisc"
     }
