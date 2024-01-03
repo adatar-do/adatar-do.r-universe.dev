@@ -6,5 +6,9 @@
     {
         "package": "Dmisc",
         "url": "https://github.com/dnldelarosa/Dmisc"
+    },
+    {
+        "package": "datafaro",
+        "url": "https://github.com/datafaro/datafaroR"
     }
 ]
