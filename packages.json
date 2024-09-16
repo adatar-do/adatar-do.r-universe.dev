@@ -14,5 +14,9 @@
     {
         "package": "renviron",
         "url": "https://github.com/adatar-do/renviron"
+    },
+    {
+        "package": "labeler",
+        "url": "https://github.com/adatar-do/labeler"
     }
 ]
