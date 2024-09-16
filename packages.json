@@ -18,5 +18,9 @@
     {
         "package": "labeler",
         "url": "https://github.com/adatar-do/labeler"
+    },
+    {
+        "package": "rgisDR",
+        "url": "https://github.com/adatar-do/rgisDR"
     }
 ]
